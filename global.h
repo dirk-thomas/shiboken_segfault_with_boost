@@ -51,6 +51,6 @@
 #include <qt_gui_cpp/plugin_provider.h>
 #include <qt_gui_cpp/recursive_plugin_provider.h>
 #include <qt_gui_cpp/ros_pluginlib_plugin_provider.h>
-#include <qt_gui_cpp/ros_pluginlib_plugin_provider_for_plugin_providers.h>
-#include <qt_gui_cpp/ros_pluginlib_plugin_provider_for_plugins.h>
+//#include <qt_gui_cpp/ros_pluginlib_plugin_provider_for_plugin_providers.h>
+//#include <qt_gui_cpp/ros_pluginlib_plugin_provider_for_plugins.h>
 #include <qt_gui_cpp/settings.h>

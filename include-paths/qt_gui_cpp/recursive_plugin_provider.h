@@ -34,7 +34,7 @@
 #define qt_gui_cpp__RecursivePluginProvider_H
 
 #include "composite_plugin_provider.h"
-#include "ros_pluginlib_plugin_provider_for_plugin_providers.h"
+//#include "ros_pluginlib_plugin_provider_for_plugin_providers.h"
 
 #include <QMap>
 #include <QString>
@@ -48,7 +48,7 @@ class RecursivePluginProvider
 
 public:
 
-  RecursivePluginProvider(RosPluginlibPluginProvider_ForPluginProviders* plugin_provider);
+  RecursivePluginProvider(/*RosPluginlibPluginProvider_ForPluginProviders* plugin_provider*/);
 
   virtual ~RecursivePluginProvider();
 
@@ -56,7 +56,7 @@ public:
 
 private:
 
-  RosPluginlibPluginProvider_ForPluginProviders* plugin_provider_;
+  //RosPluginlibPluginProvider_ForPluginProviders* plugin_provider_;
 
 };
 

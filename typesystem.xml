@@ -12,7 +12,7 @@
   <object-type name="qt_gui_cpp::PluginProvider"/>
   <object-type name="qt_gui_cpp::RecursivePluginProvider"/>
   <object-type name="qt_gui_cpp::RosPluginlibPluginProvider" generate="no"/>
-  <object-type name="qt_gui_cpp::RosPluginlibPluginProvider_ForPluginProviders"/>
-  <object-type name="qt_gui_cpp::RosPluginlibPluginProvider_ForPlugins"/>
+  <!--<object-type name="qt_gui_cpp::RosPluginlibPluginProvider_ForPluginProviders"/>-->
+  <!--<object-type name="qt_gui_cpp::RosPluginlibPluginProvider_ForPlugins"/>-->
   <object-type name="qt_gui_cpp::Settings"/>
 </typesystem>
